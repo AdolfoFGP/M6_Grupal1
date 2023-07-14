@@ -1,4 +1,4 @@
-# Modulo 6: Desarrollo de Aplicaciones Web con Python Django - Grupal
+# Modulo 6: Desarrollo de Aplicaciones Web con Python Django - Grupal 1
 
 Como primer ejercicio, levantaremos un servidor con Python, para que imprima el mensaje “Bienvenidos
 a TeLoVendo” en un navegador. Solo utilizando Python.
